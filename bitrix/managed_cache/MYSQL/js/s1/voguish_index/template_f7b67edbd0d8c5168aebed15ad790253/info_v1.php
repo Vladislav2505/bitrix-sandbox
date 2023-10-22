@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/voguish_index/js/jquery.min.js" => "141078311493868","/local/templates/voguish_index/js/responsiveslides.min.js" => "14314326783397",]; ?>

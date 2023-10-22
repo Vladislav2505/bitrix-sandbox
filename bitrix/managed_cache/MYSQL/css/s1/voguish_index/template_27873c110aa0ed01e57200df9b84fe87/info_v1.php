@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/voguish_index/css/bootstrap.css" => "1411977212121243",]; ?>
